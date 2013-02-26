@@ -1,0 +1,8 @@
+C:\Users\Vo\Desktop\exampleproject-hieu\exampleproject-hieu\bin\Debug\exampleproject-hieu.exe
+C:\Users\Vo\Desktop\exampleproject-hieu\exampleproject-hieu\bin\Debug\exampleproject-hieu.pdb
+C:\Users\Vo\Desktop\exampleproject-hieu\exampleproject-hieu\obj\Debug\exampleproject-hieu.csprojResolveAssemblyReference.cache
+C:\Users\Vo\Desktop\exampleproject-hieu\exampleproject-hieu\obj\Debug\exampleproject_hieu.Form1.resources
+C:\Users\Vo\Desktop\exampleproject-hieu\exampleproject-hieu\obj\Debug\exampleproject_hieu.Properties.Resources.resources
+C:\Users\Vo\Desktop\exampleproject-hieu\exampleproject-hieu\obj\Debug\exampleproject-hieu.csproj.GenerateResource.Cache
+C:\Users\Vo\Desktop\exampleproject-hieu\exampleproject-hieu\obj\Debug\exampleproject-hieu.exe
+C:\Users\Vo\Desktop\exampleproject-hieu\exampleproject-hieu\obj\Debug\exampleproject-hieu.pdb
